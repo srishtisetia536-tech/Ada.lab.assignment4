@@ -3,7 +3,7 @@
 ## 👩‍🎓 Student Details
 
 * **Name:** Srishti Setia
-* **Roll Number:** (Add your roll no.)
+* **Roll Number:** 2401010101
 * **Section:** C
 * **Specialisation:** CSE Core
 * **Course:** ENCS202
